@@ -1,6 +1,6 @@
 ### こんにちは :wave:
 
-Hi there! I'm HORIUCHI Akihiko, a software engineer of [Enterprise Cloud 2.0](https://ecl.ntt.com/en/)
+Hi there! I'm HORIUCHI Akihiko, a senior software engineer of [Smart Data Platform](https://sdpf.ntt.com/)
 
 - :office: I'm currently working at [NTT Communications](https://www.ntt.com/en/)
 - :seedling: I'm currently learning [Mithril.js](https://mithril.js.org/)

@@ -2,7 +2,7 @@
 
 Hi there! I'm HORIUCHI Akihiko, Software Engineer of [Smart Data Platform](https://sdpf.ntt.com/)
 
-- :office: I'm currently working at [NTT Communications](https://www.ntt.com/en/)
+- :office: I'm currently working at [NTT DOCOMO BUSINESS, Inc.](https://www.ntt.com/en/)
 - :seedling: I'm currently learning [Dokku](https://dokku.com/) and [K3s](https://k3s.io/)
 - :zap: Fun fact: camera :camera: , cooking :fried_egg: , movie :movie_camera:
 - :mailbox: How to reach me: [@hico_horiuchi](https://x.com/hico_horiuchi)

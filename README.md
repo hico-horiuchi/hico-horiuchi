@@ -13,8 +13,8 @@ Hi there! I'm HORIUCHI Akihiko, Software Engineer of [Smart Data Platform](https
 <br />
 <br />
 <a href="https://github.com/hico-horiuchi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?count_private=true&custom_title=GitHub%20Stats&disable_animations=true&include_all_commits=true&line_height=40&show_icons=true&username=hico-horiuchi" alt="GitHub stats" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api?count_private=true&custom_title=GitHub%20Stats&disable_animations=true&include_all_commits=true&line_height=40&show_icons=true&username=hico-horiuchi" alt="GitHub stats" />
 </a>
 <a href="https://github.com/hico-horiuchi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hico-horiuchi" alt="Most used languages" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hico-horiuchi" alt="Most used languages" />
 </a>
